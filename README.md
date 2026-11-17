@@ -8,8 +8,13 @@
 
 | | 주소 |
 |---|---|
-| 맥 | `https://github.com/leptos77/mytranslator-download/releases/latest/download/MyTranslator-mac.dmg` |
-| 윈도우 | `https://github.com/leptos77/mytranslator-download/releases/latest/download/MyTranslator-windows-setup.exe` |
+| 맥 (Apple 칩, macOS 13 이상) | `https://github.com/leptos77/mytranslator-download/releases/latest/download/MyTranslator-mac.dmg` |
+| 윈도우 | 준비 중 (나오면 `…/releases/latest/download/MyTranslator-windows-setup.exe`) |
+
+## 설치
+
+- 맥: `MyTranslator-mac.dmg`를 열고 `쉽게번역`을 `Applications`로 끌어다 놓는다. 인텔 Mac은 아직 안 된다.
+- 처음 켜면 Gemini API 키를 넣는 칸이 뜬다. 키는 https://aistudio.google.com/apikey 에서 무료로 받는다.
 
 ## 처음 열 때
 
